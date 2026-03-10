@@ -8,9 +8,9 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Model binaries (large files)
-models/best_model.pt
-models/graph_data.pt
+# Model binaries (uncomment if files are too large)
+# models/best_model.pt
+# models/graph_data.pt
 
 # OS files
 .DS_Store
