@@ -177,10 +177,6 @@ def main():
 
     # ── Footer ───────────────────────────────────────────────────────────
     st.markdown("---")
-    st.caption(
-        "B.Tech AI & DS Capstone Project — "
-        "Adverse Drug Interaction Prediction using Deep Learning (GCN)"
-    )
 
 
 if __name__ == "__main__":
